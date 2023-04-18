@@ -1,2 +1,2 @@
-# Analog-clock
-Built an Analog Clock; a small project based on CSS stylings and JavaScript core concepts. 
+# A beautiful Analog-clock
+A small project based on CSS stylings and JavaScript core concepts. 
